@@ -15,5 +15,5 @@ Ask me about: Python, Machine Learning, Data Analysis
 Fun fact: I enjoy turning complex data into simple, working insights 
 
 🌐 Socials:
-[![LinkedIn]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/aindla-raju-92b05a386/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/aindla-raju-92b05a386/)]
 
