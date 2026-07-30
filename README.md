@@ -14,3 +14,4 @@ Ask me about: Python, Machine Learning, Data Analysis
 
 Fun fact: I enjoy turning complex data into simple, working insights 
 
+🌐 Socials:
