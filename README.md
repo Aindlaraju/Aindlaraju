@@ -1,14 +1,11 @@
 Hi There👋
 
 ✨ About Me:
-> Aspiring AI/ML Engineer passionate about turning data into decisions
 
-> Comfortable across the Python data stack — from cleaning messy datasets to training models
+🔭 Currently working on: AI/ML projects using Python, Data Analysis, and Machine Learning
+🌱 Open to collaborate on: Applied ML, Data Science, and real-world AI solutions
+🤝 Looking for help with: Model deployment and production best practices
+📚 Currently learning: Advanced ML and end-to-end AI system design
+💬 Ask me about: Python, Machine Learning, Data Analysis
+⚡ Fun fact: I enjoy turning complex data into simple, working insights 🚀
 
-> I like building things end-to-end: data → model → deployable product
-
-> Currently sharpening skills in deep learning and real-world ML deployment
-
-> Always up for collaborating on interesting data or ML problems
-
-> When I'm not coding, I'm probably reading about the latest in AI
