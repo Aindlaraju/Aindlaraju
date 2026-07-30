@@ -1,6 +1,6 @@
-### Hi There👋
+###### Hi There👋
 
-### ✨ About Me:
+###### ✨ About Me:
 
 Currently working on: AI/ML projects using Python, Data Analysis, and Machine Learning 
 
@@ -14,7 +14,7 @@ Ask me about: Python, Machine Learning, Data Analysis
 
 Fun fact: I enjoy turning complex data into simple, working insights 
 
-### 🌐 Socials:
+###### 🌐 Socials:
 
 
 [
